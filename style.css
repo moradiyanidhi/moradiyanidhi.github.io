@@ -2,11 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #121120;
+    background-color: #121120 !important;
 }
 
 .logo {
-    height: 40px;
+    height: 35px;
 }
 
 nav {
@@ -21,9 +21,9 @@ nav .navbar-nav .nav-link:hover {
 
 nav .navbar-nav .nav-link {
     color: white;
-    font-weight: semibold;
+    font-weight: 600;
     font-size: 14px;
-    padding: 10px 15px;
+    padding: 10px 20px;
    
 }
 

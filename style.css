@@ -27,6 +27,41 @@ nav .navbar-nav .nav-link {
    
 }
 
+header {
+    text-align: center;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: 600;
+    color: white !important;
+    padding: 50px 0px;
+}
+header img {
+    height: 120px;
+    width: 120px;
+}
+
+.heading {
+    font-size: 60px;
+    font-weight: 800;
+    background: linear-gradient(90deg, #fa78b9, #9c3aff, #52baff); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 20px 0;
+}
+
+
+
+.head {
+    width: 1000px;
+    color: white;
+    text-align: center;
+    margin: 0 auto; 
+    display: block; 
+}
+
+
 
 
 

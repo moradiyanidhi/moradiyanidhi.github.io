@@ -85,7 +85,6 @@ header img {
     background: linear-gradient(90deg, #fa78b9, #9c3aff, #52baff); 
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 28px;
     font-weight: bold;
     
 }
@@ -138,5 +137,34 @@ header img {
     border-color: #9c3aff; 
     box-shadow: 0 0 8px rgba(156, 58, 255, 0.6);
 }
+
+.section-title {
+    background: linear-gradient(90deg, #fa78b9, #9c3aff, #52baff); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-size: 40px !important;
+    font-weight: bold;
+    padding: 120px 0 30px 0;
+}
+
+
+.education-item {
+    background: linear-gradient(180deg, #251043, #38126D, #261045); 
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: -4px -7px 26px rgba(0, 0, 0, 0.12);
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+.education-item:hover {
+    transform: translateY(-5px);
+}
+
+
+
+
 
 
